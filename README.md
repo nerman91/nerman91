@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Pavel
 =============================================================================================================================
 
-I'm frontend-developer
+I'm a frontend developer
 ----------------------
 
 * ✉️  You can contact me at [nergal193@gmail.com](mailto:nergal193@gmail.com)
