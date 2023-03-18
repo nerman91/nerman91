@@ -6,7 +6,8 @@ I'm a frontend developer.
 ----------------------
 
 ✉️  You can contact me by 
-    -[nergal193@gmail.com](mailto:nergal193@gmail.com)
+     * [nergal193@gmail.com](mailto:nergal193@gmail.com)
+     
 
 ### Skills:
 
