@@ -5,8 +5,9 @@ My name is Pavel.
 I'm a frontend developer.
 ----------------------
 
--✉️ You can contact me by 
-     * [nergal193@gmail.com](mailto:nergal193@gmail.com)
+ ✉️ You can contact me by:
+ - e-mail: [nergal193@gmail.com](mailto:nergal193@gmail.com)
+ - telegram: [@pavel_astafev](https://t.me/pavel_astafev)
      
 
 ### Skills:
